@@ -4,7 +4,7 @@
 
 Criar um layout usando os conhecimentos aprendidos nos módulos de HTML avançado e CSS avançado do curso [Dev Quest](https://dev-em-dobro.ticto.club/signin).
 
-## [Vizualize o projeto clicando aqui](https://github.com/YudiYamada/huddle-landing-page-with-single-introductory-section-master](https://yudiyamada.github.io/landing-page-com-grid/) ##
+## [Vizualize o projeto clicando aqui](https://yudiyamada.github.io/landing-page-com-grid/) ##
 
 ## Tecnologias utilizadas
 
